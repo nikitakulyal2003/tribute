@@ -1,0 +1,82 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header styling */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    margin: 5px 0 0;
+    font-size: 1.2em;
+}
+
+/* About section styling */
+#about {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#about img {
+    
+   border: #333;
+    width: 50%;
+    height: 50%;
+}
+
+#about p {
+    text-align: left;
+    margin-top: 10px;
+}
+
+/* Skills section styling */
+#skills {
+    background-color: #e2e2e2;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+#skills ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Inspiration section styling */
+#inspiration {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+#inspiration p {
+    text-align: left;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
